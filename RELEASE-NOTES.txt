@@ -5,6 +5,7 @@ Unreleased
 * Image block: Add a "featured" banner. (Android only) [https://github.com/wordpress-mobile/gutenberg-mobile/pull/3371]
 * [**] The media upload options of the File and Audio block automatically opens when the respective block is inserted. [https://github.com/wordpress-mobile/gutenberg-mobile/pull/3399]
 * [*] Remove visual feedback from non-interactive bottom-sheet cell sections [https://github.com/wordpress-mobile/gutenberg-mobile/pull/3404]
+* [*] Fixes color picker rendering bug when scrolling [https://github.com/wordpress-mobile/gutenberg-mobile/pull/3394]
 
 1.51.0
 ------
