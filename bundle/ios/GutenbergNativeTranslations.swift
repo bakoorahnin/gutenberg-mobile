@@ -145,7 +145,6 @@ private func dummy() {
     _ = NSLocalizedString("Take a Photo", comment: "")
     _ = NSLocalizedString("Take a Photo or Video", comment: "")
     _ = NSLocalizedString("Take a Video", comment: "")
-    _ = NSLocalizedString("Tap (+) or type / to add blocks", comment: "")
     _ = NSLocalizedString("Tap here to show help", comment: "")
     _ = NSLocalizedString("Tap to hide the keyboard", comment: "")
     _ = NSLocalizedString("Translate", comment: "")
